@@ -2892,11 +2892,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STD\\Desktop\\.net\\WebApplication10\\WebApplication10.csproj",
+      "projectUniqueName": "C:\\Users\\STD\\Downloads\\Connection-.Net\\WebApplication10.csproj",
       "projectName": "WebApplication10",
-      "projectPath": "C:\\Users\\STD\\Desktop\\.net\\WebApplication10\\WebApplication10.csproj",
+      "projectPath": "C:\\Users\\STD\\Downloads\\Connection-.Net\\WebApplication10.csproj",
       "packagesPath": "C:\\Users\\STD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STD\\Desktop\\.net\\WebApplication10\\obj\\",
+      "outputPath": "C:\\Users\\STD\\Downloads\\Connection-.Net\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
