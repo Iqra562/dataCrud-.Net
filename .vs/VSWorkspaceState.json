@@ -4,9 +4,8 @@
     "\\Controllers",
     "\\Data",
     "\\Models",
-    "\\Views",
-    "\\Views\\Users"
+    "\\Views"
   ],
-  "SelectedNode": "\\Controllers\\NewFolder",
+  "SelectedNode": "\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }

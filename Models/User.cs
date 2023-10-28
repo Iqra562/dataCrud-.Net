@@ -1,4 +1,6 @@
-﻿namespace WebApplication10.Models
+﻿using System.ComponentModel.DataAnnotations;
+namespace WebApplication10.Models
+
 {
     public class User
     {
